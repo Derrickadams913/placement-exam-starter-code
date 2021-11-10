@@ -1,6 +1,6 @@
 // HINT: You can delete this console.log after you no longer need it!
 console.log('JavaScript code has loaded!')
-
+// new code alkdfj
 // First, tell us your name
 let yourName = "Jane Doe" // HINT: Replace this with your own name!
 
